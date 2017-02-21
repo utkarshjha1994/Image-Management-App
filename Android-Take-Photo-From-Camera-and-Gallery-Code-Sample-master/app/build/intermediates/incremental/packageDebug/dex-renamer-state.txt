@@ -1,0 +1,7 @@
+#Thu Feb 02 14:31:47 IST 2017
+base.0=/home/blubirch/Desktop/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6de614b5210598929ad54d69f46f4e1629b075f1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/blubirch/Desktop/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c3ea20e1a3f35ecf72ca2c479b4ba99ef58e0403/classes.dex
+base.1=/home/blubirch/Desktop/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c3ea20e1a3f35ecf72ca2c479b4ba99ef58e0403
+file.0=/home/blubirch/Desktop/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6de614b5210598929ad54d69f46f4e1629b075f1/classes.dex

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/blubirch/Desktop/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="97fa843e7256ce85509ea7bf4d7ac39fbfad8792">
+        <dex dex="/home/blubirch/Desktop/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c3ea20e1a3f35ecf72ca2c479b4ba99ef58e0403/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/blubirch/Desktop/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/blubirch/Desktop/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_cf9df1f3598beabdcf580788757e62dcf64236fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/blubirch/Desktop/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/blubirch/Desktop/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_584a6df4c24349b34622e913b988c574f1ccb27b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/blubirch/Desktop/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/blubirch/Desktop/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_8d2dc8b82754a94c991d6c73fb23cf0ecb6f759c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/blubirch/Desktop/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2554a26630645b2a54fd65870e9a05efffaabf9b">
+        <dex dex="/home/blubirch/Desktop/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6de614b5210598929ad54d69f46f4e1629b075f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/blubirch/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/blubirch/Desktop/Android-Take-Photo-From-Camera-and-Gallery-Code-Sample-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_744ee320d5986821e5752692409ac2c1ddee8d04/classes.dex" />
+    </item>
+
+</items>
