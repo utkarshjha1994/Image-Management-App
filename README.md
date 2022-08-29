@@ -1,1 +1,1 @@
-# Integrating Camera into my android app
+#Integrating camera with my android app
